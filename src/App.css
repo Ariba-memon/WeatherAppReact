@@ -1,0 +1,47 @@
+#new{
+  text-align: center;
+  background-color: red;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 20px;
+  border-style: double;
+  display: block;
+
+}
+#Weather{
+  background-color: aqua;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 20px;
+  text-align: center;
+  border-style: double;
+}
+input{
+  background-color: burlywood;
+        border: none;
+        color: #fff;
+        padding: 10px 20px;
+        text-decoration: none;
+        margin: 2px 2px;
+        cursor: pointer;
+        ;
+}
+button{
+  
+  color: white;
+  background-color: blue;
+  border-radius: 3px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 4px 2px;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 2px;
+  align-items: center;
+  border-style: dotted; 
+
+}
+.nav{
+  align-items: center !important;
+  background-color: aqua !important;
+}
+Container{
+  color: #fff;
+}
